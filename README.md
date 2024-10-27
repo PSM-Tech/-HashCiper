@@ -2,6 +2,6 @@
 
 This is my first static website demo.
 <br>
-Author - Jeevesh Para
+<b> Copyright © HashCiper 2024 All Rights Reserved </b>
+Powered By - <a href="https://www.instagram.com/jeeveshpara">Jeevesh Para</a>
 <br>
-<b> © Copyright Pooja Studio Morena 2024 All Rights Reserved </b>
